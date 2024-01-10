@@ -1,0 +1,26 @@
+/* styles.css */
+.body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: blue;
+  }
+  
+  #quote-box {
+    /* Centering the quote box */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px; /* Adjust as needed */
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+  }
+
+  
+  
+  /* Add more styles as needed */
+  
